@@ -13,4 +13,3 @@ while seconds <= 0:
         hours, minutes = divmod(minutes, 60)
         print(f"{hours:02d}:{minutes:02d}:{seconds:02d}")
         break
-
